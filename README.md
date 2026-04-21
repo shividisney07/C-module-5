@@ -1,7 +1,7 @@
 # EX-26-AREA-OF-RECTANGLE-USING- POINTER
 
-## Name : A SATHYA NARAYANAN
-## Register Number : 25016804
+## Name : U.Deepika
+## Register Number : 212225040060
 ## AIM
 To write a C Program to find area of rectangle using pointer.
 
@@ -42,8 +42,8 @@ Thus the program to find area of rectangle using pointer has been executed succe
 
 
 # EX-27-DYNAMIC-MEMORY-ALLOCATION
-## Name : A SATHYA NARAYANAN
-## Register Number : 25016804
+## Name : U.Deepika
+## Register Number : 212225040060
 ## AIM
 To write a C Program to print 'WELCOME' using malloc() and free().
 
@@ -93,8 +93,8 @@ Thus the program to print 'WELCOME' using malloc() and free() has been executed 
 
 
 # EX-28-STUDENT-INFORMATION-USING-STRUCTURE
-## Name : A SATHYA NARAYANAN
-## Register Number : 25016804
+## Name : U.Deepika
+## Register Number : 212225040060
 
 ## AIM
 
@@ -144,8 +144,8 @@ Thus the program to store the student information and display it using structure
 
 
 # EX-29-EMPLOYEE-STRUCTURE-SALARY-CALCULATION
-## Name : A SATHYA NARAYANAN
-## Register Number : 25016804
+## Name : U.Deepika
+## Register Number : 212225040060
 
 ## AIM
 
@@ -223,8 +223,8 @@ Thus the C program to read and store the data of 3 employees and calculate their
 
 # EX – 30 -STUDENTS MARK -TOTAL &AVERAGE USING STRUCURE
 
-## Name : A SATHYA NARAYANAN
-## Register Number : 25016804
+## Name : U.Deepika
+## Register Number : 212225040060
 
 ## AIM
 Create a C program to calculate the total and average of student using structure.
@@ -300,4 +300,3 @@ int main() {
 
 Thus the C program to calculate the total and average of student using structure has been executed successfully.
 	
-
